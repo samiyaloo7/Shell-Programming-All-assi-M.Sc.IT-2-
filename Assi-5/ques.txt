@@ -1,0 +1,25 @@
+1. Write a shell script to generate following pattern.
+A
+A B
+A B C..N
+
+2. Write a shell script to generate following pattern.
+A
+B B
+C C C..N
+
+3. Write a shell script to generate following pattern.
+A B C..N
+A B
+A
+
+4. Write a shell script to generate following pattern.
+N...N
+B B
+A
+
+5. Write a shell script to generate following pattern.
+      A
+    A B A
+  A B C B A
+A B C D C B A
