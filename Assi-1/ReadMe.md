@@ -1,2 +1,2 @@
 # Assignment-1
-- Only importent programs added.
+- Only important programs added.
